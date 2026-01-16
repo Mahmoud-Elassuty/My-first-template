@@ -1,2 +1,2 @@
 # My-first-template
-html and css project
+html and css design
