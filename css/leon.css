@@ -172,11 +172,11 @@ border-bottom: 1px solid #ddd;
     text-align: center;
     padding: 20px;
  }
- .features .container .feat h3 {
+ .features .container .feat h2 {
     font-weight: 800px;
     margin: 30px 0;
  }
- .features .container .feat h3 a {
+ .features .container .feat h2 a {
     text-decoration: none;
     font-weight: 800px;
         margin: 30px 0;
@@ -253,7 +253,7 @@ font-size: 40px;
 .services .services-content .srv .text {
     flex:1;
 }
-.services .services-content .srv h3 {
+.services .services-content .srv h2 {
     margin: 0 0 30px;
         line-height: 3;
 }
